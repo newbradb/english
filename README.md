@@ -5,4 +5,6 @@
 **loran** - long ranged navigation
 ***compound*** is a chemical combination of elements which can be separated by chemical
 but not by physical means  
-**mixture** is combination of elements and compounds, not chemically combined, that can be separated by physical means. Air as an example.  
+**mixture** is combination of elements and compounds, not chemically combined, that can be separated by physical means. Air as an example. 
+**insulators** - have extemely high resistance to the flow of electricity.  
+
