@@ -7,5 +7,6 @@
 but not by physical means  
 **mixture** is combination of elements and compounds, not chemically combined, that can be separated by physical means. Air as an example. 
 **insulators** - have extemely high resistance to the flow of electricity.  
-**conversely** - навпаки
+**conversely** - навпаки  
+**repel** - відштовхувати
 
