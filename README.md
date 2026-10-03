@@ -9,4 +9,5 @@ but not by physical means
 **insulators** - have extemely high resistance to the flow of electricity.  
 **conversely** - навпаки  
 **repel** - відштовхувати
+**alloy** - сплав 
 
